@@ -1,4 +1,4 @@
-//#include <stdio.h>
+#include <stdio.h>
 
 void printGrade(int score) {
     if (score >= 90 && score <= 100) {
